@@ -1,5 +1,4 @@
-if
-  puts "Even!"
+puts "Even!"
 else
   puts "Odd!"
 end
